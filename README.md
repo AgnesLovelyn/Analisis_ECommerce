@@ -38,7 +38,7 @@ numpy.random agar analisis tetap bisa dilakukan.
 Dari grafik ini keliatan kalau penjualan paling tinggi ada di bulan
 Agustus 2023 dengan total sekitar Rp 83 juta. Setelah itu langsung
 turun drastis di September. Penjualan paling sepi ada di Juli 2023
-sekitar Rp 22 juta. Secara keseluruhan penjualan naik turun tidak
+sekitar Rp 22 juta. Secara keseluruhan penjualan naik turun tidakgit
 menentu sepanjang tahun.
 
 ### Grafik 2 — Penjualan per Kategori
